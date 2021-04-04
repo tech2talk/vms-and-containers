@@ -1,9 +1,0 @@
-This folder contains documents and code to:
-
-1. Install VirtualBox on a Windows 10 machine.
-2. Create a VM for installting Ubuntu.
-3. Install Ubuntu 18.04.
-4. Install Docker and run a sample Java app.
-
-Download the contents of docs folder to your local machine for  best possible 
-experience as the links don't work when viewed from github in a web browser.
