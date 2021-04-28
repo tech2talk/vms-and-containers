@@ -4,6 +4,7 @@
 2. Create a VM for installing Ubuntu.
 3. Install Ubuntu 18.04.
 4. Install Docker and run a sample Java app.
+5. Install Spark and Jupyter.
 
 Visit this site to start your journey. 
 https://tech2talk.github.io/vms-and-containers/
